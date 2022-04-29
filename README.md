@@ -1,3 +1,5 @@
+![Alt ou título da imagem](https://quackredacao.com.br/maiane-files/maiane-github-cover.png)
+
 # Hey, I'm Maiane Gabriele! :)
 
 - ➡️ Brazilian UI/UX Designer Freelancer.
@@ -6,6 +8,8 @@
 - ➡️ Designer educator.
 - ➡️ Personal Projects.
 - ➡️ For more: [check my personal website](https://sheisacreative.com/).
+
+
 
 <!--
 **sheisacreative/sheisacreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
