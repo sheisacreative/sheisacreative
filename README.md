@@ -1,11 +1,11 @@
 # Hey, I'm Maiane Gabriele! :)
 
-➡️ Brazilian UI/UX Designer Freelancer.
-➡️ Working with a big smile.
-➡️ 10y+ experience as a designer. 
-➡️ Designer educator.
-➡️ Personal Projects.
-➡️ For more: [check my personal website](https://sheisacreative.com/).
+- ➡️ Brazilian UI/UX Designer Freelancer.
+- ➡️ Working with a big smile.
+- ➡️ 10y+ experience as a designer. 
+- ➡️ Designer educator.
+- ➡️ Personal Projects.
+- ➡️ For more: [check my personal website](https://sheisacreative.com/).
 
 <!--
 **sheisacreative/sheisacreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
