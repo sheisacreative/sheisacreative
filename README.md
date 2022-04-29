@@ -2,26 +2,35 @@
 
 # Hey, I'm Maiane Gabriele! :)
 
-- ➡️ Brazilian UI/UX Designer Freelancer.
-- ➡️ Working with a big smile.
-- ➡️ 10y+ experience as a designer. 
-- ➡️ Designer educator.
-- ➡️ Personal Projects.
-- ➡️ For more: [check my personal website](https://sheisacreative.com/).
+- 🌠 Brazilian UI/UX Designer Freelancer.
+- 🌠 Working with a big smile.
+- 🌠 10y+ experience as a designer. 
+- 🌠 Designer educator.
+- 🌠 For more: [check my personal website](https://sheisacreative.com/).
 
 
+## What I'm up to...
 
-<!--
-**sheisacreative/sheisacreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌠 I'm currently working as a Freelancer.
+- 🌠 Developing personal projects.
+- 🌠 Creating content for [YouTube](https://youtube.com/c/sheisacreative), [Linkedin](https://www.linkedin.com/in/sheisacreative/) and [Instagram](https://www.instagram.com/sheisacreative/).
+- 🌠 Studying code as a hobby (and because I want to do some cool stuff).
+- 🌠 Going deeper in UI/UX design studies, including systematic thinking and information archtecture.
+- 🌠 Managing [a volunteer project for brazilian students](https://quackredacao.com.br/) since 2016.
 
-Here are some ideas to get you started:
+## Fun fact
+```yaml
+🤓 As a good designer, I don't really have good code to include in my GitHub.
+🤓 But I though it would be important to make my profile pretty. Sorry, people.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Curiosities
+
+- I don't work for money, I work for happiness.
+- Before beeing a designer I was a weird nerd already.
+- I LOVE cows.
+- `42.`
+
+## Let's talk!
+
+[`✉️ Drop me a message`](https://sheisacreative.com/contact/)
