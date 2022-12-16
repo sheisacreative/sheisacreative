@@ -4,9 +4,15 @@
 
 - 🌠 Brazilian UI/UX Designer Freelancer.
 - 🌠 Working with a big smile.
-- 🌠 10y+ experience as a designer. 
+
 - 🌠 More: [`Linkedin`](https://www.linkedin.com/in/sheisacreative/) | [`Personal website`](https://sheisacreative.com/).
 
+
+## Hihglights
+
+- 🌠 I've worked with big brands, like Adobe.
+- 🌠 I've worked with people from diverse countries, including United States and Europe.
+- 🌠 10y+ experience as a designer. 
 
 ## What I'm up to...
 
