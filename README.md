@@ -4,14 +4,13 @@
 
 - 🌠 Brazilian UI/UX Designer Freelancer.
 - 🌠 Working with a big smile.
-
 - 🌠 More: [`Linkedin`](https://www.linkedin.com/in/sheisacreative/) | [`Personal website`](https://sheisacreative.com/).
 
 
-## Hihglights
+## I've worked with...
 
-- 🌠 I've worked with big brands, like Adobe.
-- 🌠 I've worked with people from diverse countries, including United States and Europe.
+- 🌠 Big brands, like Adobe.
+- 🌠 Diverse countries, including United States and Europe.
 - 🌠 10y+ experience as a designer. 
 
 ## What I'm up to...
@@ -31,8 +30,8 @@
 ## My stack
 
 ### Design
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](#)
 [![Photosohp](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#)
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)](#)
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
