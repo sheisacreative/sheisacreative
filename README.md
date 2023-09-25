@@ -22,8 +22,8 @@
 - ⭐ Sponsored by the Adobe Creative Residency Community Fund.
 - ⭐ I have provided services to large companies, startups, agencies, and many others.
 - ⭐ Services provided to clients in Brazil, the United States, and Europe.
-- ⭐ +9k followers on [Linkedin](https://www.linkedin.com/in/sheisacreative/)
-- ⭐ +6k followers on [YouTube](https://youtube.com/c/sheisacreative)
+- ⭐ +12k followers on [Linkedin](https://www.linkedin.com/in/sheisacreative/)
+- ⭐ +9k followers on [YouTube](https://youtube.com/c/sheisacreative)
 - ⭐ In direct partnership with Adobe, I have trained large Brazilian companies and universities.
 - ⭐ Quack Writing: [a volunteer project for brazilian students](https://quackredacao.com.br/) that I created in 2016 and have been managing since then.
 - ⭐ UI/UX Bootcampinho: a free UI/UX Design course (in Portuguese), with a certificate, support materials and sign language interpreter.
