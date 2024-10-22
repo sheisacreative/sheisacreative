@@ -55,7 +55,8 @@
 
 ### Social
 - [![Twitter](https://img.shields.io/twitter/follow/sheisacreative?style=social)](https://twitter.com/sheisacreative)
-- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCC5G7ghkZh7NTHMEmigH2Aw)](https://youtube.com/c/sheisacreative)
+-
+- [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCC5G7ghkZh7NTHMEmigH2Aw?style=for-the-badge)](https://youtube.com/c/sheisacreative)
 
 
 ## Curiosities
