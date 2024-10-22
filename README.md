@@ -54,8 +54,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 
 ### Social
-- [![Twitter](https://img.shields.io/twitter/follow/sheisacreative?style=social)](https://twitter.com/sheisacreative)
--
+- [![Twitter](https://img.shields.io/twitter/follow/sheisacreative?style=for-the-badge)](https://twitter.com/sheisacreative)
 - [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCC5G7ghkZh7NTHMEmigH2Aw?style=for-the-badge)](https://youtube.com/c/sheisacreative)
 
 
